@@ -1,22 +1,22 @@
-# Via CEP
+# Remind
 
 ## 📒 Sobre
-<p align="center">Aplicativo que demonstra o endereço completo através do CEP inserido.</p>
+<p align="center">Projeto de conclusão de curso IFCE (Instituto Federal de educação, ciência e tecnologia do Ceará</p>
 
 ## 🛠️ Tecnologias e Ferramentas
 - Swift
-- UIKit
-- MVC
+- SwiftUI
 
 ## ▶️ Funcionalidades
-- Consumo da API - [https://www.api-futebol.com.br/](https://viacep.com.br/)
-- Endereço completo com base no CEP/
+- Criar Boxes para lembretes
+- Criar Termos
+- Finalizar termos e boxes
 
 ### 📱 Capturas de tela do aplicativo
 
-|       🍏       |              SplashScreen               |              Home              | Home                           |
+|       🍏       |              Home               |              NewBox              | Home                          |
 | :------------: | :----------------------------------------: | :---------------------------------------: | -------------------------------------- |
-| Telas | <img src="https://github.com/JoaoPedroVolponi/Assets/blob/main/swift/via-cep/splashScreen.png" width="220px;" height="400" /> | <img src="https://github.com/JoaoPedroVolponi/Assets/blob/main/swift/via-cep/home.png" width="220px;" height="400" /> | <img src="https://github.com/JoaoPedroVolponi/Assets/blob/main/swift/via-cep/homeFull.png" width="220px;" height="400" /> |
+| Telas | <img src="https://github.com/JoaoPedroVolponi/Assets/blob/main/swift/remind/home.png" width="220px;" height="400" /> | <img src="https://github.com/JoaoPedroVolponi/Assets/blob/main/swift/remind/new-box.png" width="220px;" height="400" /> | <img src="https://github.com/JoaoPedroVolponi/Assets/blob/main/swift/remind/home-box.png" width="220px;" height="400" /> |
 ## ✨ Autor
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
